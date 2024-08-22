@@ -3,6 +3,8 @@
     <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
         <servicesKeys>
             <keyDetails collectionKey="sfdcconnectorservice:GetAllAccount" connectorServiceName="sfdcconnectorservice:GetAllAccount"/>
+            <keyDetails collectionKey="sfdcconnectorservice:createSFDCcase" connectorServiceName="sfdcconnectorservice:createSFDCcase"/>
+            <keyDetails collectionKey="sfdcconnectorservice:deleteCase" connectorServiceName="sfdcconnectorservice:deleteCase"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
 </services>
